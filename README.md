@@ -1,2 +1,4 @@
 # UTS-AVD
-Regina Jelita Ningsih (2509116061)
+Nama: Regina Jelita Ningsih
+NIM: 2509116061
+Kelass: B
